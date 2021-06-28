@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "402121363350",
+    "project_id": "cyrpto-dash",
+    "storage_bucket": "cyrpto-dash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402121363350:android:54f778b27f39203ed6d7b7",
+        "android_client_info": {
+          "package_name": "com.example.cyrpto_dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402121363350-vft16r3qpmdd2dsm27nr845thg2jve5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYCCv5y8pgtEnvhWA1BGJinVlD8SPstM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402121363350-vft16r3qpmdd2dsm27nr845thg2jve5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402121363350-06inmuf131qp9jhr02d51vh9rt6s16l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyrptoDash"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402121363350:android:4a914dd7999415d5d6d7b7",
+        "android_client_info": {
+          "package_name": "io.github.collins993.flutterecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402121363350-vft16r3qpmdd2dsm27nr845thg2jve5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYCCv5y8pgtEnvhWA1BGJinVlD8SPstM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402121363350-vft16r3qpmdd2dsm27nr845thg2jve5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402121363350-06inmuf131qp9jhr02d51vh9rt6s16l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyrptoDash"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402121363350:android:6df7916c3e4b2083d6d7b7",
+        "android_client_info": {
+          "package_name": "io.github.collins993.memoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402121363350-vft16r3qpmdd2dsm27nr845thg2jve5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYCCv5y8pgtEnvhWA1BGJinVlD8SPstM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402121363350-vft16r3qpmdd2dsm27nr845thg2jve5e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "402121363350-06inmuf131qp9jhr02d51vh9rt6s16l0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyrptoDash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
